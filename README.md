@@ -18,6 +18,9 @@ Welcome to the Emoji Match! This is a fun and interactive game designed to test 
 - Bootstrap for responsive design
 - Google fonts for adding good font
 
+## Preview
+![Screenshot (26)](https://github.com/Harshit2012/Emoji-Match/assets/105143145/b923c39e-a72a-42a6-a8f2-fcbd105f550a)
+
 ## Try it out
 Try this website by clicking [here](https://harshit2012.github.io/Emoji-Match/)
 
