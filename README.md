@@ -16,6 +16,7 @@ Welcome to the Emoji Match! This is a fun and interactive game designed to test 
 - CSS
 - JavaScript
 - Bootstrap for responsive design
+- Google fonts for adding good font
 
 ## Contribution
 Feel free to fork this project, submit pull requests, or send suggestions to improve the game.
