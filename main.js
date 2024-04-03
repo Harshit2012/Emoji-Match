@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function checkGameOver() {
         if (matchedCards.length === emojis.length * 2) {
-            alert('Congratulations! You found all matches!');
+            alert('Congratulations🎉! You found all matches!');
         }
     }
 
