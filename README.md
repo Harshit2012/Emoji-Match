@@ -1,4 +1,4 @@
-# Emoji-Match
+# Emoji-Match🧠
 Welcome to the Emoji Match! This is a fun and interactive game designed to test your memory skills. The game features a simple yet engaging 4x4 grid of emojis that players must match in pairs.
 ## Features
 - **Responsive Design**: Play the game on any device, thanks to Bootstrap integration.
@@ -17,6 +17,9 @@ Welcome to the Emoji Match! This is a fun and interactive game designed to test 
 - JavaScript
 - Bootstrap for responsive design
 - Google fonts for adding good font
+
+## Try it out
+Try this website by clicking [here](https://harshit2012.github.io/Emoji-Match/)
 
 ## Contribution
 Feel free to fork this project, submit pull requests, or send suggestions to improve the game.
