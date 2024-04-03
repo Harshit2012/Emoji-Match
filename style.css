@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(98, 238, 98);
+    font-family: "Rowdies", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.game-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 0.25rem;
+    border: 2px solid black;
+}
+
+#logo {
+    margin-top: 30px;
+    height: 80px;
+    width: 80px;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+}
