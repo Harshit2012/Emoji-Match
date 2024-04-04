@@ -19,7 +19,7 @@ Welcome to the Emoji Match! This is a fun and interactive game designed to test 
 - Google fonts for adding good font
 
 ## Preview
-![Screenshot (27)](https://github.com/Harshit2012/Emoji-Match/assets/105143145/59c4d3c1-0e9b-42b4-80ed-e23f59953e44)
+![Screenshot (28)](https://github.com/Harshit2012/Emoji-Match/assets/105143145/46c6fda8-9c84-45e3-98fc-db308b8f2c57)
 
 ## Try it out
 Try this website by clicking [here](https://harshit2012.github.io/Emoji-Match/)
