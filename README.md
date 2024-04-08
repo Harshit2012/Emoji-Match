@@ -21,6 +21,37 @@ Welcome to the Emoji Match! This is a fun and interactive game designed to test 
 ## Preview
 ![Screenshot (28)](https://github.com/Harshit2012/Emoji-Match/assets/105143145/46c6fda8-9c84-45e3-98fc-db308b8f2c57)
 
+## Cloning Your Fork
+
+To clone your forked repository, use the following command in your terminal:
+
+```bash
+git clone https://github.com/Harshit2012/Emoji-Match.git
+cd Emoji-Match
+```
+
+## Syncing Your Fork
+To sync your fork with the original repository, you’ll need to add the original repository as an upstream remote:
+```bash
+git remote add upstream https://github.com/Harshit2012/Emoji-Match.git
+```
+
+Fetch the branches and their respective commits from the upstream repository:
+```bash
+git fetch upstream
+```
+Check out your fork’s local default branch - usually main:
+```bash
+git checkout main
+```
+
+Merge the changes from the upstream default branch - usually main:
+```bash
+git merge upstream/main
+```
+
+Now, your local default branch is up-to-date with the original repository’s default branch.
+
 ## Try it out
 Try this website by clicking [here](https://harshit2012.github.io/Emoji-Match/)
 
