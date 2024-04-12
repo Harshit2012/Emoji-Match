@@ -69,3 +69,61 @@ body {
     outline: none;
     border-radius: 15px;
 }
+
+#restart-btn {
+    position: relative;
+    width: 180px;
+    height: 30px;
+    background: rgb(71, 103, 244);
+    margin: 20px;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+@keyframes border-animate {
+    0% {
+        width: 100px;
+        height: 100px;
+        border-color: blue;
+    }
+
+    100% {
+        width: 180px;
+        height: 30px;
+        border-color: red;
+    }
+}
+
+#restart-btn:before,
+#restart-btn:after {
+    content: '';
+    position: absolute;
+    border: 3px solid transparent;
+}
+
+#restart-btn:before {
+    top: 0;
+    right: 0;
+    border-top-color: blue;
+    border-right-color: blue;
+}
+
+#restart-btn:after {
+    bottom: 0;
+    left: 0;
+    border-bottom-color: green;
+    border-left-color: green;
+}
+
+#restart-btn:hover:before {
+    animation: border-animate 0.5s forwards;
+    border-top-color: red;
+    border-right-color: red;
+}
+
+#restart-btn:hover:after {
+    animation: border-animate 0.5s forwards;
+    border-bottom-color: purple;
+    border-left-color: purple;
+}
